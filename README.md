@@ -1,5 +1,5 @@
 # Free-business-fonts
-Free business fonts——8Kinds
+整理了一下可商用的字体，如下：
 
 ##1、思源黑体
 
